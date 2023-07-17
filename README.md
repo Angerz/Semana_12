@@ -1,6 +1,6 @@
 # Programa de Cálculo y Selección de Bandas o Fajas
 
-Este programa tiene como objetivo calcular y seleccionar bandas o fajas para distintas aplicaciones. Contiene diferentes archivos y funcionalidades para facilitar el proceso de cálculo y selección.
+Este programa tiene como objetivo calcular y seleccionar bandas o fajas para distintas aplicaciones. Contiene diferentes archivos y funcionalidades para facilitar el proceso de cálculo y selección. Además de permitir guardar los resultados en un archivo excel.
 
 ## Archivos del Proyecto
 
